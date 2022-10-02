@@ -1,0 +1,14 @@
+﻿<Application
+    x:Class="Titanium.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Titanium">
+
+    <Application.Resources>
+        <SolidColorBrush x:Key="wbBackground" Color="#222831"/>
+        <SolidColorBrush x:Key="wbLighterBule" Color="#20475e"/>
+        <SolidColorBrush x:Key="wbForeground" Color="#f04545"/>
+        <SolidColorBrush x:Key="wbLightGrey" Color="#dddddd"/>
+    </Application.Resources>
+
+</Application>
